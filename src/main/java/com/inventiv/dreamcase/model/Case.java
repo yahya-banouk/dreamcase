@@ -1,10 +1,6 @@
 package com.inventiv.dreamcase.model;
 
-import jakarta.persistence.*;
-import lombok.Data;
-import lombok.Getter;
-import lombok.Setter;
-
+import javax.persistence.*;
 import java.time.LocalDateTime;
 
 @Entity
